@@ -1,9 +1,11 @@
+require("dotenv").config();
 const mongoose = require("mongoose");
 
 const mongoURI = "mongodb://127.0.0.1:27017/sneaker";
+const DB_URL = process.env.DB_URL || mongoURI;
 
 mongoose
-  .connect(mongoURI, {
+  .connect(DB_URL, {
     useNewUrlParser: true,
     useUnifiedTopology: true,
   })
