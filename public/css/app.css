@@ -43,13 +43,11 @@
   width: 100%;
   display: block;
   margin-top: 65px;
-  
 }
 .banner .banner-img {
   width: 100%;
   height: auto;
-  display: block; 
-  
+  display: block;
 }
 
 /* heading */
@@ -167,11 +165,9 @@
   background-repeat: no-repeat;
   height: 100vh;
   width: 100%;
-padding: 95em;
+  padding: 95em;
   opacity: 0.35;
   position: absolute;
-  
-  
 }
 html,
 .edit-div {
@@ -186,7 +182,7 @@ html,
   align-items: center;
   height: 100vh;
   justify-content: center;
-width: 100vw;
+  width: 100vw;
 }
 
 .edit-card {
@@ -358,9 +354,9 @@ html,
   box-shadow: 20px 20px 0 #212020;
   border-radius: 50px;
   position: absolute;
-  bottom: 30%;  
-   left: 25%;
-  display: block; 
+  bottom: 30%;
+  left: 25%;
+  display: block;
 }
 
 .new-card h2 {
