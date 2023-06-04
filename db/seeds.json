@@ -3,7 +3,7 @@
     "brand": "NIKE",
     "name": "AIR JORDAN 4 RETRO 'LIGHTNING' 2021",
     "colorWay": "Tour Yellow/Dark Blue Grey",
-    "img": "https://res.cloudinary.com/dsruc2myl/image/upload/c_scale,w_350/v1682191857/cluembfxvy6bwrgnoqsm.jpg",
+    "img": "https://res.cloudinary.com/dsruc2myl/image/upload/c_scale,w_400/v1682191857/cluembfxvy6bwrgnoqsm.jpg",
     "imgL": "https://res.cloudinary.com/dsruc2myl/image/upload/c_scale,w_299/v1682192428/f08crrpste034h2zbrzp.jpg",
     "imgCL": "https://res.cloudinary.com/dsruc2myl/image/upload/c_scale,w_299/v1682192407/mresatqkhvbuvoan5t0s.jpg",
     "imgCR": "https://res.cloudinary.com/dsruc2myl/image/upload/c_scale,w_299/v1682192378/yq88f3zn9dwqlw0mrtcv.jpg",
@@ -15,5 +15,22 @@
     "condition": "UnBoxed",
     "size": 4.5,
     "worn": 0
+  },
+  {
+    "brand": "NIKE",
+    "name": "NIKE AIR JORDAN 11 “COOL GRAY” 2021",
+    "colorWay": "Medium Grey",
+    "img": "https://res.cloudinary.com/dsruc2myl/image/upload/c_scale,w_400/v1685863645/ufkqkpazjamwf2hbs45y.jpg",
+    "imgL": "https://res.cloudinary.com/dsruc2myl/image/upload/c_scale,w_299/v1685863624/dlg8yqqrxllzz3ggthmv.jpg",
+    "imgCL": "https://res.cloudinary.com/dsruc2myl/image/upload/c_scale,w_299/v1685863624/dlg8yqqrxllzz3ggthmv.jpg",
+    "imgCR": "https://res.cloudinary.com/dsruc2myl/image/upload/c_scale,w_299/v1685863675/mpf8oscls6g5ik7o4z3j.jpg",
+    "imgR": "https://res.cloudinary.com/dsruc2myl/image/upload/c_scale,w_299/v1685863700/z4greiomdm0sfn73siss.jpg",
+    "lnk1": "https://stockx.com/air-jordan-11-retro-cool-grey-2021?country=US&currencyCode=USD&size=12.5&g_network=g&g_productchannel=online&g_adid=563924506441&g_keyword=&g_adtype=pla&g_keywordid=aud-314644233035:pla-1464708950853&g_acctid=709-098-4271&g_ifcreative=&g_campaign=OD+-+New_Releases+-+Sneakers+-+%28US%29&gclsrc=aw.ds&g_adgroupid=131762083402&g_productid=39f63b61-438a-4b09-b87c-a82aa29e568d&g_merchantid=111829866&g_partition=1464708950853&g_campaignid=1033943193&g_ifproduct=product&?utm_source=google&utm_medium=cpc&utm_campaign=OD-New_Releases-Sneakers(US)&utm_campaignid=1033943193&content=563924506441&keyword&gclid=Cj0KCQiAoY-PBhCNARIsABcz7737-TL-BdTs9n2qZG-FL1lSJDSxCmEyRcajWo0Cd4hQnUnOdILoAM8aAqk_EALw_wcB",
+    "lnk2": "https://www.goat.com/sneakers/air-jordan-11-retro-cool-grey-2021-ct8012-005",
+    "lnk3": "https://www.flightclub.com/air-jordan-11-retro-cool-grey-2021-ct8012-005?gclid=Cj0KCQiAoY-PBhCNARIsABcz770mgKcaSSroEyi-9EzJe15yeuoKh2PY1BgsQCFRvi-iCW5ysBx4-asaAonCEALw_wcB",
+    "lnk4": "https://www.stadiumgoods.com/en-us/shopping/air-jordan-11-retro-gs-cool-grey-2021-17677712?size=34&gclid=Cj0KCQiAoY-PBhCNARIsABcz770OdEJ5j10Q_jL0Dujdp5cSVmZtxBSZK39LQLrsYBraaN1A_D-bVyQaAklJEALw_wcB",
+    "condition": "UnBoxed",
+    "size": 4.5,
+    "worn": 1
   }
 ]
